@@ -1,0 +1,12 @@
+.img_class{
+    background: linear-gradient(to right,#2DDEF0, #FF0303);
+    border-radius: 15px;
+}
+div {
+    background: linear-gradient(to right,#2DDEF0, #FF0303);
+}
+.h2_class {
+    margin: 0;
+    background: white;
+    mix-blend-mode: screen;
+}
